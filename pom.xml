@@ -45,9 +45,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.gpicsc.extend-modules</groupId>
-            <artifactId>common</artifactId>
-            <version>1.0.0</version>
+            <groupId>io.github.gaozui</groupId>
+            <artifactId>base-common</artifactId>
+            <version>1.0.0-RELEASE</version>
         </dependency>
 
         <!--文件模块-->
